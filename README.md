@@ -4,7 +4,7 @@
 
 - **Name**: Tattukolla Venkata Durga Prasad  
 - **Roll Number**: 12220336  
-- **Email**: [your-email@example.com]  
+- **Email**: venkatadurgaprasad04@gmail.com  
 - **Track**: Frontend  
 
 ---
