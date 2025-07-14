@@ -25,18 +25,18 @@ This is a client-side **React-based URL Shortener Web App** developed for the ca
 ## 🧱 Project Structure
 
 12220336/
-├── question1/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── utils/
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   └── ...
-│   ├── .gitignore
-│   ├── package.json
-│   └── README.md
+- ├── question1/
+- │   ├── public/
+- │   ├── src/
+- │   │   ├── components/
+- │   │   ├── pages/
+- │   │   ├── utils/
+- │   │   ├── App.js
+- │   │   ├── index.js
+- │   │   └── ...
+- │   ├── .gitignore
+- │   ├── package.json
+- │   └── README.md
 
 ---
 
