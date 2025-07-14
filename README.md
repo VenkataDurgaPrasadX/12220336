@@ -1,6 +1,6 @@
-# URL Shortener Application 🚀
+# URL Shortener Application
 
-## 📌 Candidate Details
+## Candidate Details
 
 - **Name**: Tattukolla Venkata Durga Prasad  
 - **Roll Number**: 12220336  
@@ -9,7 +9,7 @@
 
 ---
 
-## 📂 Project Overview
+## Project Overview
 
 This is a client-side **React-based URL Shortener Web App** developed for the campus hiring evaluation by **Afford Medical Technologies**. It includes:
 
@@ -22,7 +22,7 @@ This is a client-side **React-based URL Shortener Web App** developed for the ca
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 - 12220336/
 - ├── question1/
@@ -40,15 +40,15 @@ This is a client-side **React-based URL Shortener Web App** developed for the ca
 
 ---
 
-## 📸 Pages Implemented
+## Pages Implemented
 
-### ✅ URL Shortener Page
+### URL Shortener Page
 
 - Input long URL, optional validity (in minutes), and custom shortcode
 - Generates a shortened URL and saves it in localStorage
 - Shows expiry time and clickable short link
 
-### ✅ Statistics Page
+### Statistics Page
 
 - Displays all previously shortened URLs
 - Shows total clicks per URL
@@ -57,21 +57,21 @@ This is a client-side **React-based URL Shortener Web App** developed for the ca
   - Click source (referrer)
   - Mock location (simulated data)
 
-### ✅ Redirect Handler
+### Redirect Handler
 
 - When a user accesses `/shortcode`, they are redirected to the original URL
 - Also logs timestamp, source, and location in the background
 
 ---
 
-## 🔐 Logging Middleware
+## Logging Middleware
 
 - All user actions (shorten, redirect, click) are tracked using a custom logging utility
 - Logs include timestamps, event names, and context
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React**
 - **React Router**
@@ -81,7 +81,7 @@ This is a client-side **React-based URL Shortener Web App** developed for the ca
 
 ---
 
-## 🧪 Testing & Usage
+## Testing & Usage
 
 1. Clone the repository  
 2. Navigate to `question1/`  
